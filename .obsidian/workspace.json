@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extraction-summaries/Brigham_Young_Discourses.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brigham_Young_Discourses"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extraction-summaries/Brigham_Young_Discourses.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brigham_Young_Discourses"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extraction-summaries/Brigham_Young_Discourses.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Brigham_Young_Discourses"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extraction-summaries/Brigham_Young_Discourses.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brigham_Young_Discourses"
+              "title": "Outline of README"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "cf61ff5256a0e343",
   "lastOpenFiles": [
+    "extraction-summaries/Brigham_Young_Discourses.md",
+    "README.md",
     "extraction-summaries/Brigham_Young_Discourses.pdf",
     "pdf-source/remove_discourse_numbers.py",
     "Journal_of_Discourses_Complete.md",
-    "extraction-summaries/Brigham_Young_Discourses.md",
     "pdf-source/extract_brigham_young.py",
     "pdf-source",
     "pdf-sources/individual-volumes",
@@ -197,7 +198,6 @@
     "pdf-sources/JoD25.pdf",
     "pdf-sources/JoD24.pdf",
     "pdf-sources/JoD23.pdf",
-    "pdf-sources/JoD22.pdf",
     "pdf-source/JoD01_clean.md",
     "individual-volumes/JoD26.md",
     "individual-volumes/JoD25.md",
