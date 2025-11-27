@@ -186,6 +186,7 @@
   "active": "cf61ff5256a0e343",
   "lastOpenFiles": [
     "extraction-summaries/Brigham_Young_Discourses.pdf",
+    "pdf-source/remove_discourse_numbers.py",
     "Journal_of_Discourses_Complete.md",
     "extraction-summaries/Brigham_Young_Discourses.md",
     "pdf-source/extract_brigham_young.py",
