@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "a9d03d9aaa88adcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cb7f49618b36c83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf61ff5256a0e343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extraction-summaries/Brigham_Young_Discourses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brigham_Young_Discourses"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7844e2d6fa5f7b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "db6e0cc424c3579d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c8ea27ad96bacb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7da8b21b390745ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dba3180582c5c1e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e133eb16f7549741",
+    "type": "split",
+    "children": [
+      {
+        "id": "10e760cd99d4fb22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db2442be4b3a7ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "extraction-summaries/Brigham_Young_Discourses.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Brigham_Young_Discourses"
+            }
+          },
+          {
+            "id": "ab9f99fd91400485",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "extraction-summaries/Brigham_Young_Discourses.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Brigham_Young_Discourses"
+            }
+          },
+          {
+            "id": "8b014037483a5819",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eda4907671bce0bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bed344872b629999",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "extraction-summaries/Brigham_Young_Discourses.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Brigham_Young_Discourses"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cf61ff5256a0e343",
+  "lastOpenFiles": [
+    "extraction-summaries/Brigham_Young_Discourses.pdf",
+    "Journal_of_Discourses_Complete.md",
+    "extraction-summaries/Brigham_Young_Discourses.md",
+    "pdf-source/extract_brigham_young.py",
+    "pdf-source",
+    "pdf-sources/individual-volumes",
+    "pdf-sources/clean_extract_jod.py",
+    "pdf-sources/JoD26.pdf",
+    "pdf-sources/JoD25.pdf",
+    "pdf-sources/JoD24.pdf",
+    "pdf-sources/JoD23.pdf",
+    "pdf-sources/JoD22.pdf",
+    "pdf-source/JoD01_clean.md",
+    "individual-volumes/JoD26.md",
+    "individual-volumes/JoD25.md",
+    "individual-volumes/JoD24.md",
+    "individual-volumes/JoD23.md",
+    "individual-volumes/JoD22.md",
+    "individual-volumes/JoD21.md",
+    "individual-volumes/JoD20.md",
+    "individual-volumes/JoD19.md",
+    "individual-volumes/JoD18.md",
+    "individual-volumes/JoD17.md",
+    "individual-volumes/JoD16.md",
+    "individual-volumes/JoD15.md",
+    "individual-volumes/JoD14.md",
+    "individual-volumes/JoD13.md",
+    "individual-volumes/JoD12.md",
+    "individual-volumes/JoD11.md",
+    "individual-volumes/JoD10.md",
+    "individual-volumes/JoD09.md",
+    "individual-volumes/JoD08.md",
+    "individual-volumes/JoD07.md",
+    "individual-volumes/JoD06.md",
+    "individual-volumes/JoD05.md"
+  ]
+}
